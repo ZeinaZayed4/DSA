@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Stack_Array" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" focusToolWindowBeforeRun="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Stack_App.cpp" CONFIG_NAME="Stack_Array">
-    <option name="sourceFile" value="D:\FCIS\Basics\DSA\Youtube\Code\Stack_App.cpp" />
+  <configuration default="false" name="Stack_Array" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" focusToolWindowBeforeRun="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Queue_Circular_Array.cpp" CONFIG_NAME="Stack_Array">
+    <option name="sourceFile" value="D:\FCIS\Basics\DSA\Youtube\Code\Queue_Circular_Array.cpp" />
     <method v="2">
       <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
     </method>
